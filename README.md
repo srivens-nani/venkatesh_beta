@@ -1,5 +1,5 @@
 # venkatesh_beta
-  Hey there! venkatesh vasamsetti is here.
+  Hey there! Venkatesh Vasamsetti is here.
   I hope anyone reading this also will also go through my code and provide me with some suggestions and some piece of advice to bring up
   more optimal solutions.
       Thank you.!
