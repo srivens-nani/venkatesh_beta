@@ -1,0 +1,81 @@
+body{
+background-image:url('Rest.jpg');
+background-size:cover;
+
+}
+.navbar
+{
+text-align:center-left;
+width:250%;
+background:#D8BFD8;
+opacity:1.0;
+}
+.navbar ul{
+margin:0;
+padding:0;
+list-style:none;
+position:absolute;
+}
+.navbar ul li a{
+display:block;
+padding:25px;
+font-style: bold;
+font-size: 22px;
+color: white;
+text-decoration:none;
+width:150px;
+}
+.navbar ul:after {
+content:"";
+display:block;
+}
+.navbar ul li{
+float:left;
+list-style:none;
+}
+
+.navbar ul li:hover > ul{
+display:block;
+}
+.navbar ul li:hover{
+	opacity:0.8;
+background:black;
+transition:0.4s;
+
+border-radius: 4px;
+border: 1px solid white;overflow: hidden; 
+border-color: white;
+
+
+
+}
+.navbar ul li:hover a{
+color:white;
+
+
+
+}
+.right{
+			float: left;
+			width: 100%;
+			background-color: black;
+		}#ctr{
+   
+   width: 200px;
+   float:center;
+   height:40px;
+   border-radius: 8px;
+   border-color: grey;
+   }
+   #abc{
+   float: center;
+   text-align: center;
+   }
+   
+   
+   
+   #id{
+   height:25px;
+   width: 50px;
+   border-radius:4.5px;
+   }
